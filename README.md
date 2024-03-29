@@ -2,7 +2,13 @@
 # 카메라 캘리브레이션 및 렌즈 왜곡 보정 프로그램입니다
 
 ## 원본영상:
+[[![chessboard.mp4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]](https://github.com/yunee19/camera_calibration_with_distortion_correction/assets/133479803/8f58ea9a-8ec2-47c9-a7e8-362fbc3eec37)
 
+## 실행 결과 demo 이미지:
+![camera_calibration_with_distortion_correction_result_demo01](https://github.com/yunee19/camera_calibration_with_distortion_correction/assets/133479803/a377ccbe-f919-446e-8f8a-724f8f89d0a3)
+![camera_calibration_with_distortion_correction_result_demo02](https://github.com/yunee19/camera_calibration_with_distortion_correction/assets/133479803/3782055d-181b-469c-ac19-5eab12f0e818)
+![camera_calibration_with_distortion_correction_result_demo04](https://github.com/yunee19/camera_calibration_with_distortion_correction/assets/133479803/e5a317df-7e32-452d-8e09-aef0d606a12f)
+![camera_calibration_with_distortion_correction_result_demo03](https://github.com/yunee19/camera_calibration_with_distortion_correction/assets/133479803/5749d0af-72f5-4d5f-bef0-1e43ed16d4d3)
 
 이 프로그램은 OpenCV를 사용하여 체스보드 패턴을 활용한 카메라 캘리브레이션과 함께 렌즈 왜곡 보정을 수행합니다.
 
